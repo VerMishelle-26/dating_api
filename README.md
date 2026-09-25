@@ -15,7 +15,7 @@ REST API для платформы знакомств на Django REST Framework
 ## Запуск локально
 
 1. Клонировать репозиторий:
-   git clone https://github.com/VerMishelle-26/dating_api/upload
+   git clone https://github.com/VerMishelle-26/dating_api
    cd dating-api
 
 2. Установить зависимости:
